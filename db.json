@@ -1,7 +1,0 @@
-{
-  "tasks": [
-    { "id": 1, "body": "Clean the sheets" },
-    { "id": 2, "body": "Do the laundry" },
-    { "id": 3, "body": "Feed the cat" }
-  ]
-}
